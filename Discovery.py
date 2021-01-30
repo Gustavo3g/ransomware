@@ -3,7 +3,7 @@ import os
 def discover(initial_path):
 
     extensions = [
-        'exe', 'py', 'zip', 'json', 'pdf'
+        'exe', 'py', 'zip', 'json', 'pdf', 'jpg'
     ]
 
 

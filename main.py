@@ -23,7 +23,7 @@ def main():
 
     if decrypt:
         print(f'''
-        HACKWARE STRIKE FORCE
+        HACKWARE STRIKE FORCE 
         -------------------------------------------------------
         Seus arquivos foram criptografados;
         Para decripta-los utilize a seguinte senha '{HARDCODED_KEY}'
